@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/amirpakand/amirhosein.pakand/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the (https://github.com/amirpakand/amirhosein.pakand/edit/gh-pages/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+I am Amir Hossein Pakand and since I was 15 years old, my interest in repairing electronic boards made me do more work in this way.
+And now I work in the Information and Communication Technology Organization.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### phone number
 
-# Header 1
-## Header 2
-### Header 3
+ +989126936149
 
-- Bulleted
-- List
+### personol information 
+first name: **Amirhosein**
+last name:**pakand**
+birth day:novamber 1996 in tehran
 
-1. Numbered
-2. List
+### Software ability
+1.icdl
+2.cad
+3.adobe premiere
+4.adobe photoshop
+5.adobe indesign
 
-**Bold** and _Italic_ and `Code` text
+### Evidence
+1.network+
+2.mcitp
 
-[Link](url) and ![Image](src)
-```
+### languages
+Basic English
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### skills
+Mobile Repairs
 
-### Jekyll Themes
+### work experience
+Information and Communication Technology Organization from 2016 until now
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amirpakand/amirhosein.pakand/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### درمورد من
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+من امیرحسین پاکند هستم و از 15 سالگی علاقه ام به تعمیر برد های الکترونیکی باعث شد که کارهای بیشتری را از این طریق انجام دهم.
+و اکنون در سازمان فناوری اطلاعات و ارتباطات کار می کنم.
+
+
+### شماره تلفن
+
+ 989126936149
+
+### اطلاعات پرسنل
+نام کوچک: ** امیرحسین **
+نام خانوادگی: ** pakand **
+روز تولد: نوامبر 1996 در تهران
+
+### توانایی نرم افزار
+1.icdl
+2. کادر
+3. تبلیغات برتر Adobe
+4. فتوشاپ Adobe
+5. Adobe indesign
+
+### شواهد و مدارک
+1. شبکه +
+2. mcitp
+
+### زبان ها
+انگلیسی پایه
+
+### مهارت ها
+تعمیرات تلفن همراه
+
+### تجربه کاری
+سازمان فناوری اطلاعات و ارتباطات از سال 2016 تاکنون
