@@ -5,8 +5,6 @@ You can use the(https://github.com/amirpakand/amirpakand/edit/gh-pages/index.md)
 
 ### About me
 
-I am Amir Hossein Pakand and since I was 15 years old, my interest in repairing electronic boards made me do more work in this way.
-And now I work in the Information and Communication Technology Organization.
 
 
 ### phone number
@@ -36,6 +34,6 @@ Basic English
 Mobile Repairs
 
 ### work experience
-Information and Communication Technology Organization from 2016 until now
+
 
 
